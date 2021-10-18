@@ -8,3 +8,7 @@ main_TPU.ipynb is a TPU version.
 *.pth stores the final parameter for the best result.
 
 This project is processed  on Google Colab.
+
+Code Reference:
+ 1. https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+ 2. https://zhuanlan.zhihu.com/p/135193464
